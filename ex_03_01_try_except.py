@@ -8,7 +8,7 @@ except:
     print('Error, please enter numeric input')
     quit()
 
-print(floatingHour, flatingRate)
+print(floatingHour, floatingRate)
 if floatingHour > 40:
     print('Overtime')
     regularPay = floatingHour * floatingRate
